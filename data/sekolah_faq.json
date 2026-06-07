@@ -248,5 +248,11 @@
     "id": 50,
     "question": "Apakah lulusan dapat melanjutkan kuliah?",
     "answer": "Ya, lulusan dapat melanjutkan pendidikan ke perguruan tinggi."
+  },
+
+   {
+    "id": 51,
+    "question": "siapa mbak siti?",
+    "answer": "mbak siti adalah guru SMK jurusan RPL yang berasal dari subang."
   }
 ]
