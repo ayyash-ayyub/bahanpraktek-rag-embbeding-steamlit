@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "Dimana alamat sekolah?",
+    "answer": "SMK Cokroaminoto Kotamobagu berada di Kota Kotamobagu."
+  },
+  {
+    "id": 2,
+    "question": "Siapa kepala sekolah?",
+    "answer": "Kepala sekolah adalah Jordan."
+  },
+  {
+    "id": 3,
+    "question": "Apa saja jurusan yang tersedia?",
+    "answer": "Jurusan yang tersedia adalah RPL, Mesin, Multimedia, dan Tata Boga."
+  },
+  {
+    "id": 4,
+    "question": "Berapa jumlah jurusan di sekolah?",
+    "answer": "Terdapat empat jurusan utama."
+  },
+  {
+    "id": 5,
+    "question": "Apa kepanjangan RPL?",
+    "answer": "RPL adalah Rekayasa Perangkat Lunak."
+  },
+  {
+    "id": 6,
+    "question": "Apakah sekolah memiliki laboratorium komputer?",
+    "answer": "Ya, sekolah memiliki laboratorium komputer."
+  },
+  {
+    "id": 7,
+    "question": "Apakah tersedia jaringan internet?",
+    "answer": "Ya, tersedia jaringan internet untuk kegiatan belajar."
+  },
+  {
+    "id": 8,
+    "question": "Apakah sekolah memiliki perpustakaan?",
+    "answer": "Ya, sekolah memiliki perpustakaan."
+  },
+  {
+    "id": 9,
+    "question": "Apakah ada ekstrakurikuler?",
+    "answer": "Ya, terdapat berbagai kegiatan ekstrakurikuler."
+  },
+  {
+    "id": 10,
+    "question": "Kapan pendaftaran siswa baru dibuka?",
+    "answer": "Pendaftaran biasanya dibuka setiap tahun ajaran baru."
+  },
+  {
+    "id": 11,
+    "question": "Apakah sekolah menerima siswa pindahan?",
+    "answer": "Ya, sesuai persyaratan yang berlaku."
+  },
+  {
+    "id": 12,
+    "question": "Berapa lama masa studi di SMK?",
+    "answer": "Masa studi adalah tiga tahun."
+  },
+  {
+    "id": 13,
+    "question": "Apakah ada praktik kerja industri?",
+    "answer": "Ya, siswa mengikuti praktik kerja industri."
+  },
+  {
+    "id": 14,
+    "question": "Apa fokus jurusan Multimedia?",
+    "answer": "Multimedia fokus pada desain grafis, video, dan konten digital."
+  },
+  {
+    "id": 15,
+    "question": "Apa fokus jurusan Tata Boga?",
+    "answer": "Tata Boga fokus pada pengolahan makanan dan minuman."
+  },
+  {
+    "id": 16,
+    "question": "Apa fokus jurusan Mesin?",
+    "answer": "Jurusan Mesin fokus pada teknik dan manufaktur."
+  },
+  {
+    "id": 17,
+    "question": "Apakah sekolah memiliki kantin?",
+    "answer": "Ya, sekolah memiliki kantin."
+  },
+  {
+    "id": 18,
+    "question": "Apakah ada lapangan olahraga?",
+    "answer": "Ya, tersedia lapangan olahraga."
+  },
+  {
+    "id": 19,
+    "question": "Apakah siswa memakai seragam?",
+    "answer": "Ya, siswa wajib memakai seragam sesuai ketentuan."
+  },
+  {
+    "id": 20,
+    "question": "Apakah sekolah memiliki UKS?",
+    "answer": "Ya, sekolah memiliki Unit Kesehatan Sekolah."
+  },
+  {
+    "id": 21,
+    "question": "Bagaimana cara mendaftar?",
+    "answer": "Pendaftaran dapat dilakukan sesuai prosedur PPDB sekolah."
+  },
+  {
+    "id": 22,
+    "question": "Apakah ada kegiatan pramuka?",
+    "answer": "Ya, terdapat kegiatan pramuka."
+  },
+  {
+    "id": 23,
+    "question": "Apakah sekolah memiliki ruang praktik?",
+    "answer": "Ya, tersedia ruang praktik sesuai jurusan."
+  },
+  {
+    "id": 24,
+    "question": "Apa visi sekolah?",
+    "answer": "Visi sekolah adalah mencetak lulusan yang kompeten dan berkarakter."
+  },
+  {
+    "id": 25,
+    "question": "Apa misi sekolah?",
+    "answer": "Misi sekolah adalah meningkatkan kualitas pendidikan dan keterampilan siswa."
+  },
+  {
+    "id": 26,
+    "question": "Apakah ada kegiatan keagamaan?",
+    "answer": "Ya, terdapat kegiatan keagamaan."
+  },
+  {
+    "id": 27,
+    "question": "Apakah sekolah memiliki aula?",
+    "answer": "Ya, sekolah memiliki aula."
+  },
+  {
+    "id": 28,
+    "question": "Apakah ada organisasi siswa?",
+    "answer": "Ya, terdapat OSIS."
+  },
+  {
+    "id": 29,
+    "question": "Apakah sekolah mengadakan lomba?",
+    "answer": "Ya, sekolah rutin mengikuti dan mengadakan lomba."
+  },
+  {
+    "id": 30,
+    "question": "Bagaimana sistem pembelajaran?",
+    "answer": "Pembelajaran menggabungkan teori dan praktik."
+  },
+  {
+    "id": 31,
+    "question": "Apakah tersedia WiFi?",
+    "answer": "Ya, tersedia WiFi sekolah."
+  },
+  {
+    "id": 32,
+    "question": "Apakah ada guru produktif?",
+    "answer": "Ya, setiap jurusan memiliki guru produktif."
+  },
+  {
+    "id": 33,
+    "question": "Apakah sekolah bekerja sama dengan industri?",
+    "answer": "Ya, sekolah menjalin kerja sama dengan berbagai industri."
+  },
+  {
+    "id": 34,
+    "question": "Apakah ada bimbingan karir?",
+    "answer": "Ya, tersedia layanan bimbingan karir."
+  },
+  {
+    "id": 35,
+    "question": "Apakah ada beasiswa?",
+    "answer": "Ya, tersedia program beasiswa tertentu."
+  },
+  {
+    "id": 36,
+    "question": "Apakah siswa mendapatkan sertifikat kompetensi?",
+    "answer": "Ya, sesuai program dan kompetensi yang diikuti."
+  },
+  {
+    "id": 37,
+    "question": "Apakah sekolah memiliki website?",
+    "answer": "Ya, sekolah memiliki website resmi."
+  },
+  {
+    "id": 38,
+    "question": "Apakah sekolah memiliki media sosial?",
+    "answer": "Ya, sekolah aktif di media sosial."
+  },
+  {
+    "id": 39,
+    "question": "Apakah tersedia parkir kendaraan?",
+    "answer": "Ya, tersedia area parkir."
+  },
+  {
+    "id": 40,
+    "question": "Apakah ada kegiatan seni?",
+    "answer": "Ya, terdapat kegiatan seni dan budaya."
+  },
+  {
+    "id": 41,
+    "question": "Apakah sekolah memiliki mushola?",
+    "answer": "Ya, sekolah memiliki mushola."
+  },
+  {
+    "id": 42,
+    "question": "Apakah ada kegiatan olahraga?",
+    "answer": "Ya, terdapat berbagai kegiatan olahraga."
+  },
+  {
+    "id": 43,
+    "question": "Apakah tersedia ruang BK?",
+    "answer": "Ya, tersedia ruang Bimbingan Konseling."
+  },
+  {
+    "id": 44,
+    "question": "Apakah ada program kewirausahaan?",
+    "answer": "Ya, terdapat program kewirausahaan siswa."
+  },
+  {
+    "id": 45,
+    "question": "Apakah sekolah memiliki laboratorium mesin?",
+    "answer": "Ya, tersedia laboratorium mesin."
+  },
+  {
+    "id": 46,
+    "question": "Apakah sekolah memiliki studio multimedia?",
+    "answer": "Ya, tersedia studio multimedia."
+  },
+  {
+    "id": 47,
+    "question": "Apakah jurusan RPL belajar pemrograman?",
+    "answer": "Ya, siswa RPL mempelajari pemrograman dan pengembangan aplikasi."
+  },
+  {
+    "id": 48,
+    "question": "Apakah ada ujian kompetensi?",
+    "answer": "Ya, siswa mengikuti ujian kompetensi."
+  },
+  {
+    "id": 49,
+    "question": "Apakah lulusan dapat bekerja?",
+    "answer": "Ya, lulusan dipersiapkan untuk dunia kerja."
+  },
+  {
+    "id": 50,
+    "question": "Apakah lulusan dapat melanjutkan kuliah?",
+    "answer": "Ya, lulusan dapat melanjutkan pendidikan ke perguruan tinggi."
+  }
+]
